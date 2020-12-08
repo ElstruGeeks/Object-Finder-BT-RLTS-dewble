@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img align="center" src = "https://github.com/gokulrejith/Object-Finder-BT-RLTS/blob/main/Images/logo.png" alt = "logo" />
+<img src = "https://github.com/gokulrejith/Object-Finder-BT-RLTS/blob/main/Images/logo.png" alt = "logo" />
 </p>
 <p align="center"><i>A product developed for the Electronics and Instrumentation Engineering semester 5 design project.</i></p>
 
@@ -53,7 +53,9 @@ _🔹 LED_                                 <br>
 </div>
 
 ### 🔶 3D Modelling
+<p align = "center">
 <img src="https://github.com/gokulrejith/Object-Finder-BT-RLTS/blob/main/3Dmodelling/stl_gif.gif" width = "85%" height = "85%" alt="Input stl file" >
+ </p>
 <img src="https://github.com/gokulrejith/Object-Finder-BT-RLTS/blob/main/3Dmodelling/3d1.jpg" width = "45%" height = "45%" alt="model" >
 
 ### 🔶 Prototype image
